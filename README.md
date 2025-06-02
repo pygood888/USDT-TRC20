@@ -2,7 +2,7 @@
 
 这是一个用于生成USDT TRC20 地址的工具，支持自定义后缀和GPU加速功能。
 
-[![Uploading {](https://github.com/pygood888/USDT-TRC20/blob/main/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+![Uploading {](https://github.com/pygood888/USDT-TRC20/blob/main/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
 ## 功能特点
 
