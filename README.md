@@ -25,6 +25,14 @@
 5. 点击"开始生成"按钮
 6. 生成完成后可以复制或导出结果
 
+## 自定义后缀
+![Uploading {](https://github.com/pygood888/USDT-TRC20/blob/main/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%90%8E%E7%BC%80.png)
+
+
+## 随机豹子
+![Uploading {](https://github.com/pygood888/USDT-TRC20/blob/main/%E9%9A%8F%E6%9C%BA%E5%90%8E%E7%BC%80%E8%B1%B9%E5%AD%90.png)
+
+
 ## 注意事项
 
 - 免费版本仅支持3位及以下后缀
